@@ -1,0 +1,28 @@
+위에 nav / 메뉴아이템 - nav item
+
+main 
+- title
+- subtitle
+
+pricing item
+
+<replit> 온라인으루 바로
+<우클릭 - 검사>
+
+HTML
+Hyper Text Markup Language
+
+tag 
+확장자를 html로 만들어야함
++ 모든파일로 저장
+
+<HTML 기본1>
+HTML = 이름 + 속성 + 값
+
+
+
+
+
+
+
+
